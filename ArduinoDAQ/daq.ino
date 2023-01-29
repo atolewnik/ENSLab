@@ -35,9 +35,6 @@ void loop() {
   float h = dht.readHumidity();
   // Read temperature as Celsius (the default)
   float t = dht.readTemperature();
-
-  /* Measure temperature and humidity.  If the functions returns
-     true, then a measurement is available. */
   
   dataFile = SD.open("data.txt", FILE_WRITE);
   dt = rtc_instance.getDateTime();
