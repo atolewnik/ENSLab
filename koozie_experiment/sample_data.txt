@@ -1,0 +1,49 @@
+Sample - 0
+Timestamp: 2023-3-5 19:38:28
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 31.95°C 
+Environment Temperature: 23.10°C 
+---------------------------------
+Sample - 1
+Timestamp: 2023-3-5 19:38:30
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 28.63°C 
+Environment Temperature: 23.10°C 
+---------------------------------
+Sample - 2
+Timestamp: 2023-3-5 19:38:31
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 28.17°C 
+Environment Temperature: 23.10°C 
+---------------------------------
+Sample - 3
+Timestamp: 2023-3-5 19:38:33
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 27.70°C 
+Environment Temperature: 23.10°C 
+---------------------------------
+Sample - 4
+Timestamp: 2023-3-5 19:38:35
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 27.22°C 
+Environment Temperature: 23.10°C 
+---------------------------------
+Sample - 5
+Timestamp: 2023-3-5 19:38:36
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 26.72°C 
+Environment Temperature: 23.10°C 
+---------------------------------
+Sample - 6
+Timestamp: 2023-3-5 19:38:38
+
+Liquid Temperature: 23.62°C 
+Wall Temperature: 26.21°C 
+Environment Temperature: 23.10°C 
+---------------------------------
